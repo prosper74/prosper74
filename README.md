@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Github Cards
+
+| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prosper74&) | ![Stats](https://github-readme-stats.vercel.app/api?username=prosper74&show_icons=true&locale=en) |
+| ------------- | ------------- |
+
+| ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=prosper74&show_icons=true&locale=en&layout=compact) |
+| ------------- |
+
 <!--
 **prosper74/prosper74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
