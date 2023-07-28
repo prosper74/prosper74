@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Github Cards
-
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prosper74&) | ![Stats](https://github-readme-stats.vercel.app/api?username=prosper74&show_icons=true&locale=en) |
 | ------------- | ------------- |
 
