@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=prosper74)](https://git.io/streak-stats) |
-
-| ------------- | ------------- |
+<!--
+| [![GitHub Streak](https://streak-stats.demolab.com?user=prosper74&theme=dark)](https://git.io/streak-stats) |
+-->
 
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prosper74&) | ![Stats](https://github-readme-stats.vercel.app/api?username=prosper74&show_icons=true&locale=en) |
 | ------------- | ------------- |
