@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# About Me
+Prosper is a Software Engineer building web
+applications using the right tools and technologies such as Go, Javascript, React, PostgreSQL, Git... 
+
+He brings ideas into reality using the right design patterns and algorithms while writing clean code to ensure good maintainability and scalability. 
+
+You can reach out to him directly on [LinkedIn](https://www.linkedin.com/in/prosper-atu/), or by [Email](mailto:atu.prosper@gmail.com).
+
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prosper74&) | ![Stats](https://github-readme-stats.vercel.app/api?username=prosper74&show_icons=true&locale=en) |
 | ------------- | ------------- |
 
