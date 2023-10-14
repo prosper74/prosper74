@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-# About Me
-Prosper is a Software Engineer building web
+# About Prosper Atu
+Prosper Atu is a Software Engineer building web
 applications using the right tools and technologies such as Go, Javascript, React, PostgreSQL, Git... 
 
 He brings ideas into reality using the right design patterns and algorithms while writing clean code to ensure good maintainability and scalability. 
